@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Shaco - O Bufão DEMONIACO</title>
+    <link rel="stylesheet" type="text/css" href="">
+    <style>
+        
+body {
+    font-family: "Arial", sans-serif; 
+    margin: 0;
+    padding: 0;
+    background-image: url('img/Shaco_0.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header {
+    background-image: url('header-background.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    font-family: "Georgia", serif; 
+}
+
+nav ul {
+    background-color: rgba(0, 0, 0, 0.7); 
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: "Times New Roman", serif; 
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: rgba(255, 255, 255, 0.8); 
+    border-radius: 5px;
+    font-family: "Verdana", sans-serif; 
+}
+
+
+footer {
+  
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    font-family: "Tahoma", sans-serif;
+}
+
+#habilidades ul li img {
+    width: 100px; 
+    height: 100px; 
+    margin-right: 100px; 
+    border-radius: 50px; 
+}
+
+    </style>
+</head>
+<body>
+    
+    <header>
+        <h1>Shaco - O Bufão DEMONIACO</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#sobre">Sobre</a></li>
+            <li><a href="#habilidades">Habilidades</a></li>
+            <li><a href="#skins">Skins</a></li>
+        </ul>
+    </nav>
+    
+    <section id="sobre">
+        <h2>Sobre Shaco</h2>
+        <p>Shaco é um campeão do League of Legends conhecido por sua personalidade sinistra e suas habilidades de ilusão.</p>
+    </section>
+    
+    <section id="habilidades">
+        <h2>Habilidades</h2>
+        
+        <ul>
+              <p>
+                <img src="img/Jester_CarefulStrikes.png" alt="Ícone da Passiva">
+                <Strong>Passiva - APUNHALAR:</Strong> Os ataques básicos de Shaco e Veneno de Dois Gumes causam dano adicional ao atingirem o inimigo por trás.
+            </p>
+              <p>
+                <img src="img/Deceive.png" alt="Ícone da Habilidade Q">
+                <strong>Q - ENGANAR:</strong> Shaco fica Invisível e se teleporta para o local-alvo. Seu primeiro ataque enquanto está Invisível é fortalecido, causando dano adicional e crítico ao atingir o inimigo por trás.
+            </p>
+              <p>
+                <img src="img/JackInTheBox.png" alt="Ícone da Habilidade W">
+                <strong>W - CAIXINHA SURPRESA:</strong> Shaco cria uma Caixinha-Surpresa escondida. Quando ativada, ela causará temor e atacará inimigos próximos.
+            </p>
+              <p>
+                <img src="img/TwoShivPoison.png" alt="Ícone da Habilidade E">
+                <strong>E - VENENO DE DOIS GUMES:</strong> As facas de Shaco envenenam alvos passivamente ao contato, reduzindo sua Velocidade de Movimento. Ele pode arremessá-las para causar dano e envenenar o alvo. A faca arremessada causa dano adicional se a Vida do alvo estiver abaixo de 30%.
+            </p>    
+            
+              <p>  
+                <img src="img/HallucinateFull.png" alt="Ícone da Habilidade R">
+                <strong>R - ALUCINAÇÕES:</strong> Shaco cria uma ilusão de si mesmo próxima a ele, que pode atacar inimigos próximos (causa dano reduzido a torres). Ao morrer, ela explode, fazendo surgir três Caixinhas-Surpresa e causando dano a todos os inimigos próximos.
+            </p>
+        </ul>
+    </section>
+    
+    
+    <section id="skins">
+        <h2>Skins</h2>
+        <p>Minhas skins favoritas para o Shaco:</p>
+        <ul>
+            <li>SHACO ESTRELA NEGRA</li>
+            <li>SHACO SOUL FIGHTER</li>
+            <li>SHACO PESADELO NA CIDADE DO CRIME</li>
+        </ul>
+    </section>
+    
+    
+    <footer>
+        <p>Para mais informações sobre Shaco, visite o <a href="https://www.leagueoflegends.com/pt-br/champions/shaco/">site oficial do League of Legends</a>.</p>
+    </footer>
+</body>
+</html>
