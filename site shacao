@@ -10,13 +10,12 @@ body {
     font-family: "Arial", sans-serif; 
     margin: 0;
     padding: 0;
-    background-image: url('img/Shaco_0.jpg'); 
+    background-image: url('https://static1-br.millenium.gg/entity_articles/4/61/14/@/66849-sa-shaco-orig-1-article_image_bd-1.jpeg'); 
     background-size: cover;
     background-repeat: no-repeat;
 }
 
-header {
-    background-image: url('header-background.jpg'); 
+header { 
     background-size: cover;
     background-repeat: no-repeat;
     color: #fff;
@@ -101,24 +100,24 @@ footer {
         
         <ul>
               <p>
-                <img src="img/Jester_CarefulStrikes.png" alt="Ícone da Passiva">
+                <img src="https://static1-br.millenium.gg/entity_articles/4/61/14/@/66852-jester-carefulstrikes-orig-2-64x64-1.png" alt="Ícone da Passiva">
                 <Strong>Passiva - APUNHALAR:</Strong> Os ataques básicos de Shaco e Veneno de Dois Gumes causam dano adicional ao atingirem o inimigo por trás.
             </p>
               <p>
-                <img src="img/Deceive.png" alt="Ícone da Habilidade Q">
+                <img src="https://static1-br.millenium.gg/entity_articles/4/61/14/@/66855-deceive-orig-2-64x64-1.png" alt="Ícone da Habilidade Q">
                 <strong>Q - ENGANAR:</strong> Shaco fica Invisível e se teleporta para o local-alvo. Seu primeiro ataque enquanto está Invisível é fortalecido, causando dano adicional e crítico ao atingir o inimigo por trás.
             </p>
               <p>
-                <img src="img/JackInTheBox.png" alt="Ícone da Habilidade W">
+                <img src="https://static1-br.millenium.gg/entity_articles/4/61/14/@/66858-jackinthebox-orig-2-64x64-1.png" alt="Ícone da Habilidade W">
                 <strong>W - CAIXINHA SURPRESA:</strong> Shaco cria uma Caixinha-Surpresa escondida. Quando ativada, ela causará temor e atacará inimigos próximos.
             </p>
               <p>
-                <img src="img/TwoShivPoison.png" alt="Ícone da Habilidade E">
+                <img src="https://static1-br.millenium.gg/entity_articles/4/61/14/@/66861-twoshivpoison-orig-2-64x64-1.png" alt="Ícone da Habilidade E">
                 <strong>E - VENENO DE DOIS GUMES:</strong> As facas de Shaco envenenam alvos passivamente ao contato, reduzindo sua Velocidade de Movimento. Ele pode arremessá-las para causar dano e envenenar o alvo. A faca arremessada causa dano adicional se a Vida do alvo estiver abaixo de 30%.
             </p>    
             
               <p>  
-                <img src="img/HallucinateFull.png" alt="Ícone da Habilidade R">
+                <img src="https://static1-br.millenium.gg/entity_articles/4/61/14/@/66864-hallucinatefull-orig-2-64x64-1.png" alt="Ícone da Habilidade R">
                 <strong>R - ALUCINAÇÕES:</strong> Shaco cria uma ilusão de si mesmo próxima a ele, que pode atacar inimigos próximos (causa dano reduzido a torres). Ao morrer, ela explode, fazendo surgir três Caixinhas-Surpresa e causando dano a todos os inimigos próximos.
             </p>
         </ul>
